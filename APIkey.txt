@@ -1,0 +1,3 @@
+UALThdFdHaAwqitWOPBorBCkHHBvR25e
+
+q=obama&facet_fields=source&facet=true&begin_date=20120101&end_date=20121231
